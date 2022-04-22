@@ -1,5 +1,5 @@
 # camping-website
-This is website for camping enthusiasts. The inspiration is from a design made by Parves Ahamad.
+This is website for camping enthusiasts. The inspiration is from a design made by <a href="https://dribbble.com/parvesahamad">Parves Ahamad.</a>
 Feel free to fork the repo and further develop it
 
 ## screenshot
